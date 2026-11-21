@@ -1,1 +1,1 @@
-![GitHub Stats](https://vercel.app)
+![Top Languages](./top-langs.svg)
