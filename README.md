@@ -1,1 +1,1 @@
-[![Top Languages](https://shields.io)](https://profile-summary-for-github.com)
+[![Top Languages](https://shields.io)](https://githubusercontent.com)
